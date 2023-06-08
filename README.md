@@ -1,2 +1,2 @@
-### Hi, I'm Fozil KHudoyberdiev <img src="<iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>" width="30px">
+### Hi, I'm Fozil KHudoyberdiev <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47tcn5nellp7buozjc7l14oin9ffq39uq6r2r0p7hi&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">
 
