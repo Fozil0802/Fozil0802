@@ -2,7 +2,7 @@
 <a href="https://t.me/Fozil950802"> 
 <img src="https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png" width="50px" height="50px"></a>
 <a href="https://t.me/Fozil950802"> 
-<img src="https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png" width="50px" height="50px"></a>
+<img src="https://img.freepik.com/premium-vector/blue-social-media-logo_197792-1759.jpg" width="50px" height="50px"></a>
 <br />
 <br / >
 ### Languages and tools I work with:
