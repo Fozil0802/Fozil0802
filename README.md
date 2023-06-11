@@ -4,4 +4,4 @@
 <br />
 <br />
 ### Languages and tools I work with:
-<code><img src="https://logowik.com/content/uploads/images/492_html5.jpg" heigt=25px></code>
+<code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" heigt=25px></code>
