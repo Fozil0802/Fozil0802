@@ -11,4 +11,5 @@
 
 <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" width=35px></code>
 <code><img src="https://img.freepik.com/free-icon/css_318-698167.jpg" width=40px></code>
-<code><img src="<code><img src="https://img.freepik.com/free-icon/css_318-698167.jpg" width=40px></code>" width=40px></code>
+<code><img src="![image](https://github.com/Fozil0802/Fozil0802/assets/135839238/7814b638-feaf-4a5b-81e0-e260ccfb3d43)
+" width=40px></code>" width=40px></code>
