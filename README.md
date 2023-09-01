@@ -2,7 +2,7 @@
 <a href="https://t.me/Fozil950802"> 
 <img src="https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png" width="50px" height="50px"></a>
 <a href="https://www.facebook.com/fozil.xudoyberdiev.98/"> 
-<img src="https://img.freepik.com/premium-vector/blue-social-media-logo_197792-1759.jpg" width="50px" height="50px"></a>
+<img src="https://img.freepik.com/premium-vector/blue-social-media-logo_197792-1759.jpg" width="55px" height="55px"></a>
 <a href="https://www.instagram.com/"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaKFnBS6oXtQ4Qk6nM5MQ75PvNDfFUc5DCA&usqp=CAU" width="50px" height="50px"></a>
 <br />
