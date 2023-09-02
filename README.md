@@ -4,7 +4,7 @@
 <a href="https://www.facebook.com/fozil.xudoyberdiev.98/"> 
 <img src="https://img.freepik.com/premium-vector/blue-social-media-logo_197792-1759.jpg" width="50px" height="50px"></a>
 <a href="https://www.instagram.com/"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaKFnBS6oXtQ4Qk6nM5MQ75PvNDfFUc5DCA&usqp=CAU" width="50px" height="50px"></a>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaKFnBS6oXtQ4Qk6nM5MQ75PvNDfFUc5DCA&usqp=CAU" width="45px" height="45px"></a>
 <br />
 <br / >
 ### Languages and tools I work with:
