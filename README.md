@@ -12,4 +12,4 @@
 <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" width=35px></code>
 <code><img src="https://img.freepik.com/free-icon/css_318-698167.jpg" width=40px></code>
 <code><img src="https://tl.vhv.rs/dpng/s/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" width=35px></code>
-<code><https://miro.medium.com/v2/resize:fit:880/1*0pLbHKAulWnsx4U2MQyn2w.png" width=35px></code>
+<code><https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40manrvaldez.92%2Fa-code-wars-story-b89a62cd8f56&psig=AOvVaw2J2JKR4LKIjymaBvNFUAdJ&ust=1701061212081000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjKp_3w4IIDFQAAAAAdAAAAABAI" width=35px></code>
