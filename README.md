@@ -12,3 +12,4 @@
 <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" width=35px></code>
 <code><img src="https://img.freepik.com/free-icon/css_318-698167.jpg" width=40px></code>
 <code><img src="https://tl.vhv.rs/dpng/s/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" width=35px></code>
+<code><https://miro.medium.com/v2/resize:fit:880/1*0pLbHKAulWnsx4U2MQyn2w.png" width=35px></code>
