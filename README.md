@@ -12,6 +12,7 @@
 
 <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" width=35px></code>
 <code><img src="https://img.freepik.com/free-icon/css_318-698167.jpg" width=40px></code>
+<code><img src="https://www.liblogo.com/img-logo/fi441fc32-figma-logo-figma-tips-and-tricks-rusmir-arnautovic-creative-designer-ux-ui.png" width=25px></code>
 <code><img src="https://tl.vhv.rs/dpng/s/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" width=35px></code>
 <code><img src="https://docs.codewars.com/logo.svg" width=35px></code>
 <code><img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" width=35px></code>
