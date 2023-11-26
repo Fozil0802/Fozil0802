@@ -1,4 +1,10 @@
 ### Hi, I'm Fozil <img src="https://media3.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?cid=ecf05e47mg0lfgyrfqik5i1cmhef1yx1mtjcb29hdplc8wof&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="55px">
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer👨‍💻;Based+in+Gwangju,+South+Korea🇰🇷;Ask+me+about+anything;I+am+happay+to+help&color=white&center=true" />
+</div>
+
+
 <a href="https://t.me/Fozil950802"> 
 <img src="https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png" width="50px" height="50px"></a>
 <a href="https://www.facebook.com/fozil.xudoyberdiev.98/"> 
