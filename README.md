@@ -15,3 +15,4 @@
 <code><img src="https://tl.vhv.rs/dpng/s/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" width=35px></code>
 <code><img src="https://docs.codewars.com/logo.svg" width=35px></code>
 <code><img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" width=35px></code>
+<code><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=35px></code>
