@@ -23,3 +23,8 @@
 <code><img src="https://docs.codewars.com/logo.svg" width=35px></code>
 <code><img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" width=35px></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width=40px></code>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fozil0802&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fozil0802&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fozil0802&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
